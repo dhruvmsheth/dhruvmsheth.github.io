@@ -4,6 +4,18 @@ nav_title: Home
 layout: base
 ---
 
+
+
+To make changes to the main home content in the scrawl theme, you should edit the `/home/dhruvstra/personal/website/scrawl/index.md` file.
+
+For the sitemap, you can edit the `_data/navigation.yml` file. This file contains the navigation structure for your website, including the links in the sitemap.
+
+To edit the content within the sitemap, you can modify the individual markdown files that correspond to each page in the sitemap. These files are typically located in the `_pages` directory.
+
+Remember to update the appropriate markdown files with your desired content.
+
+
+
 {% capture raw_content %}{% include_relative README.md %}{% endcapture %}
 
 {% assign content_lines = raw_content | newline_to_br | strip_newlines | split: '<br />' %}

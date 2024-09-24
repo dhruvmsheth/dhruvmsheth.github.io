@@ -1,8 +1,8 @@
-title: "The Scrawl theme"
+title: "Dhruv Sheth"
 description: >-
-  A theme for [Jekyll](https://jekyllrb.com/)
-  based on
-  [Primer](https://github.com/pages-themes/primer)
+  Website about Dhruv Sheth. Undergraduate 
+  student studying Computer Science at Caltech.
+  Hacking robots in free time.
 
 sass:
   style: compressed
