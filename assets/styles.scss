@@ -3,13 +3,6 @@
 
 @import "jekyll-theme-scrawl.scss";
 
-.header {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 10px;
-  }
-  
   .header-image {
     max-width: 150px; /* Adjust as needed */
     margin-right: 20px; /* Space between image and text */
@@ -20,6 +13,3 @@
     height: auto;
   }
   
-  .description {
-    margin-top: 5px;
-  }
