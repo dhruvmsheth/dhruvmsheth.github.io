@@ -2,7 +2,7 @@
 title: Resume
 reading_time: False
 layout: page
-order: Fixed
+order: Fluid
 ---
 
 <!DOCTYPE html>
