@@ -4,6 +4,8 @@ nav_title: Home
 layout: base
 ---
 
+# Home
+
 Hi! I'm Dhruv Sheth, sophomore studying CS at Caltech with focus on learning and vision with a minor in [Robotics](https://mce.caltech.edu/academics/ugrad/robotics_minor).
 
 This past summer, I worked as a research fellow at the Burdick Robotics Lab, where I focused on 6-DoF object tracking with unknown geometry, SDFs, state estimation techniques like GTSAM, uncertainty quantification, and simulation development in MuJoCo and Unity.
@@ -17,4 +19,8 @@ This term I'll be taking all the classes at school that covers the math and ML b
 
 Outside academics and robotics, I enjoy playing squash, ping pong, Super Smash Bros. and also cycling. I also love painting. I also like reading about philosophy and my favorite reads are about Ouspensky's interactions with Gurdjieff. 
 
-On this website, you can find a summary of my previous work, projects, my resume and some fun stuff. You can contact me via email. My email username is dsheth and the corresponding domain is caltech [dot] edu.
+On this website, you can find a summary of my previous work, projects, my resume and some fun stuff. 
+
+# Contact
+
+I like talking to new people. Feel free to contact me via email. My email username is dsheth and the corresponding domain is caltech [dot] edu.
