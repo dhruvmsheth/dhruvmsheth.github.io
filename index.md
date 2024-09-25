@@ -2,6 +2,7 @@
 title: ""
 nav_title: Home
 layout: base
+hide_in_nav: true
 ---
 
 # Home
