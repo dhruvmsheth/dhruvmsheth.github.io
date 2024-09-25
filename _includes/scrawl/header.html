@@ -1,28 +1,25 @@
-<header class="header">
-  <div class="header-image">
-    <img src="{{ '/assets/profile_dhruv.jpg' | relative_url }}" alt="Me holding LEONARDO robot">
+<header></header>
+  <div class="hotdog" id="open-qswitcher">
+    <div></div>
+    <div></div>
+    <div></div>
   </div>
-  <div>
-    {% if site.title and site.title != page.title %}
-      <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+
+  {% if site.title and site.title != page.title %}
+    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+  {% endif %}
+
+  {% if site.description %}
+    <div class="description">{{ site.description | markdownify }}</div>
+    <div class="header-image"><img src="{{ '/assets/profile_dhruv.jpg' | relative_url }}" alt="Me holding LEONARDO robot"></div>  
     {% endif %}
 
-    {% if site.description %}
-      <div class="description">{{ site.description | markdownify }}</div>
-    {% endif %}
-  </div>
+  {% if page.nav_pages %}
+    {% assign docs = page.nav_pages %}
+  {% else %}
+    {% assign docs = site.pages %}
+  {% endif %}
+
+  {% include scrawl/nav.html docs=docs scrawl=site.data.scrawl %}
+
 </header>
-
-<div class="hotdog" id="open-qswitcher">
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
-
-{% if page.nav_pages %}
-  {% assign docs = page.nav_pages %}
-{% else %}
-  {% assign docs = site.pages %}
-{% endif %}
-
-{% include scrawl/nav.html docs=docs scrawl=site.data.scrawl %}
