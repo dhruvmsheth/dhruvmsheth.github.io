@@ -23,6 +23,7 @@ Below are some projects I've worked on:
     - Game UI
 - We utilized SDL2 and Emscripten (WebAssembly) to develop this game and developed our server-client system to host it. 
 - This project was developed in under 2 weeks with some starter code for physics engine in C that we developed during the course.
+
 [Project link](https://github.com/Adarsh321123/Jetpack-Joyride)
 
 ### HapticCV: depth-assisted bicycle navigation
