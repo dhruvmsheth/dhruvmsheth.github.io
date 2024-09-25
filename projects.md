@@ -10,7 +10,7 @@ Below are some projects I've worked on:
 
 ### Jetpack Joyride Clone in C
 <a href="https://www.youtube.com/watch?v=y3pyTwI8THE" title="Jetpack Joyride Demo">
-  <img src="assets/imgs/jj_thumbnail.png" alt="Jetpack Joyride Demo YouTube" width="300">
+  <img src="/assets/imgs/jj_thumbnail.png" alt="Jetpack Joyride Demo YouTube" width="300">
 </a>
 
 - This project was a part of Software Design class at Caltech.
@@ -27,7 +27,7 @@ Below are some projects I've worked on:
 
 ### HapticCV: depth-assisted bicycle navigation
 <a href="https://neosensory.com/blog/feel-the-future-winners-announced/" title="HapticCV demo">
-  <img src="assets/imgs/Haptic_CV.webp" alt="HapticCV demo" width="300">
+  <img src="/assets/imgs/Haptic_CV.webp" alt="HapticCV demo" width="300">
 </a>
 
 - Cars have been equipped with all sorts of sensors to make them safer and smarter. Unfortunately, cyclists haven’t had the same benefits. 
@@ -37,7 +37,7 @@ Below are some projects I've worked on:
 [Project link](https://www.hackster.io/dhruvsheth_/hapticcv-spatialai-haptic-stimulus-based-cycle-assistance-167f79)
 
 ### Gelare: prototyping platform for assistive robotics
-<a href="https://www.hackster.io/503542/gelare-depth-sensing-edgeimpulse-powered-assistive-robots-491700" title="Gelare"> <img src="assets/imgs/gelare.avif" alt="gelare demo" width="300">
+<a href="https://www.hackster.io/503542/gelare-depth-sensing-edgeimpulse-powered-assistive-robots-491700" title="Gelare"> <img src="/assets/imgs/gelare.avif" alt="gelare demo" width="300">
 </a>
 - The idea is to bring robotic manipulation performing real-time computer vision with RGBD sensors to an accessible platform for prototyping. 
 - For this, we quantized and deployed computer vision models using a CNN architecture built for embedded devices called FOMO (Faster Objects, More Objects) and got the ML model processing RGB and Stereo Depth data under 3Mb ram and 1mW power at 30FPS.
