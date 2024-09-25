@@ -6,4 +6,6 @@ order: Fixed
 category: other
 ---
 
-Projects
+# Projects
+
+Below are some projects I've worked on:
