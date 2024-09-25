@@ -16,3 +16,8 @@ On this website, you can find a summary of my previous work, projects, my resume
 # Contact
 
 I like making new connections. Feel free to contact me via email. My email username is _dsheth_ and the corresponding domain is _caltech [dot] edu_.
+
+# Socials
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dhruvsheth_) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvmsheth) [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HS1aYg8AAAAJ&hl=en) [![Curius](https://img.shields.io/badge/-Curius-1E90FF?style=flat-square&logo=internet-explorer&logoColor=white)](https://curius.app/dhruv-sheth)
+
