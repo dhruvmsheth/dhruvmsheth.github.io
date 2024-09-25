@@ -1,28 +1,12 @@
-<header>
-  <style>
-    .header-image {
-      max-width: 300px;
-      margin: 20px auto;
-    }
-    .header-image img {
-      width: auto; /* Change to maintain aspect ratio */
-      height: 200px; /* Set height */
-      border-radius: 5px;
-    }
-    .description {
-      word-wrap: break-word;
-      max-width: 100%;
-    }
-    header {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-  </style>
+<header></header>
+  <div class="hotdog" id="open-qswitcher">
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
 
   {% if site.title and site.title != page.title %}
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
   {% endif %}
 
   {% if site.description %}
@@ -39,5 +23,6 @@
     {% assign docs = site.pages %}
   {% endif %}
 
-  {% include scrawl/nav.html docs=docs %}
+  {% include scrawl/nav.html docs=docs scrawl=site.data.scrawl %}
+
 </header>
