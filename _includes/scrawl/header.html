@@ -11,8 +11,8 @@
 
   {% if site.description %}
     <div class="description">{{ site.description | markdownify }}</div>
-    <div class="header-image"><img src="{{ '/assets/profile_dhruv.jpg' | relative_url }}" alt="Me holding LEONARDO robot"></div>  
-    {% endif %}
+    <div class="header-image"><img src="{{ "/assets/profile_dhruv.jpg" | relative_url }}" alt="Me holding LEONARDO robot"></div>  
+  {% endif %}
 
   {% if page.nav_pages %}
     {% assign docs = page.nav_pages %}
