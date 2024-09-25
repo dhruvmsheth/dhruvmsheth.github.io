@@ -3,7 +3,6 @@ description: >-
   Website about Dhruv Sheth. Undergraduate 
   student studying Computer Science at Caltech.
   Loves hacking robots 🤖 in free time!
-image: assets/profile_dhruv.jpg
 sass:
   style: compressed
 exclude:

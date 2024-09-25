@@ -1,4 +1,4 @@
-<header>
+<header></header>
   <div class="hotdog" id="open-qswitcher">
     <div></div>
     <div></div>
@@ -12,6 +12,11 @@
   {% if site.description %}
     <div class="description">{{ site.description | markdownify }}</div>
   {% endif %}
+
+  <!-- New image section -->
+  <div class="header-image">
+    <img src="{{ '/assets/images/your-image.jpg' | relative_url }}" alt="Me holding LEONARDO robot">
+  </div>
 
   {% if page.nav_pages %}
     {% assign docs = page.nav_pages %}
