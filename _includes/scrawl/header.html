@@ -1,12 +1,12 @@
-<header></header>
+<header>
   <style>
     .header-image {
       max-width: 300px;
       margin: 20px auto;
     }
     .header-image img {
-      width: 100%;
-      height: auto;
+      width: auto; /* Change to maintain aspect ratio */
+      height: 200px; /* Set height */
       border-radius: 5px;
     }
     .description {
@@ -20,12 +20,6 @@
       text-align: center;
     }
   </style>
-
-  <div class="hotdog" id="open-qswitcher">
-    <div></div>
-    <div></div>
-    <div></div>
-  </div>
 
   {% if site.title and site.title != page.title %}
     <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
