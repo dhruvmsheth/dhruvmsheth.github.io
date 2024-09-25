@@ -15,4 +15,4 @@ On this website, you can find a summary of my previous work, projects, my resume
 
 # Contact
 
-I like talking to new people. Feel free to contact me via email. My email username is dsheth and the corresponding domain is caltech [dot] edu.
+I like making new connections. Feel free to contact me via email. My email username is _dsheth_ and the corresponding domain is _caltech [dot] edu_.

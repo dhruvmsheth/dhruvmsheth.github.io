@@ -17,3 +17,5 @@ This term I'll be taking all the classes at school that covers the math and ML b
 We felt there was a disconnect between current research and undergraduate robotics and the best way to narrow the disconnect is to start a club where people can share ideas, grad students can present research and undergrads take part in manipulation competitions. So this , one of my friends and I started a Robotic Manipulation Club at Caltech to get more people interested in Deep RL, imitation learning and recent efforts in this space.
 
 Outside academics and robotics, I enjoy playing squash, ping pong, Super Smash Bros. and also cycling. I also love painting. I also like reading about philosophy with one of my favorite reads being about Ouspensky's interactions with Gurdjieff. 
+
+Some blogs/people I follow: [Alex Irpan - Sorta Insightful](https://www.alexirpan.com/), [Eric Jang](https://evjang.com/), [Chris Olah](https://colah.github.io/), [Lilian](https://lilianweng.github.io/), [Ben Recht](https://www.argmin.net/), [Brad Porter](https://medium.com/@bp_64302), [Chris - It can think](https://itcanthink.substack.com/)

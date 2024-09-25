@@ -2,6 +2,7 @@
 title: Big Nav
 layout: page
 order: ZZ-Big Nav
+hide_in_nav: true
 category: example
 summary: |
   This page has a lot of items in the navigation.
