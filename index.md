@@ -13,7 +13,9 @@ Previously, I’ve explored embedded machine learning, 3D representations, and c
 
 On this website, you can find a summary of my previous work, projects, my resume and some fun stuff. 
 
-Recents: Worked on HiveMind for a hackathon. HiveMind is like Cursor, but better with shared memory. It's an organization-wide knowledge-sharing AI text editor with mixture-of-experts (MoE) orchestration. We use OpenAI Swarms for the MoE orchestration. More information [here](https://github.com/Sam-Fatehmanesh/Cerebral_hive_backend)
+# Recents
+
+Worked on HiveMind for a hackathon. HiveMind is like Cursor, but better with shared memory. It's an organization-wide knowledge-sharing AI text editor with mixture-of-experts (MoE) orchestration. We use OpenAI Swarms for the MoE orchestration. More information [here](https://github.com/Sam-Fatehmanesh/Cerebral_hive_backend)
 
 # Contact
 
