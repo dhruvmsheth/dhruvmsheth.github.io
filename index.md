@@ -15,7 +15,9 @@ On this website, you can find a summary of my previous work, projects, my resume
 
 # Recents
 
-Worked on HiveMind for a hackathon. HiveMind is like Cursor, but better with shared memory. It's an organization-wide knowledge-sharing AI text editor with mixture-of-experts (MoE) orchestration. We use OpenAI Swarms for the MoE orchestration. More information [here](https://github.com/Sam-Fatehmanesh/Cerebral_hive_backend)
+- Worked on HiveMind for a hackathon. HiveMind is like Cursor, but better with shared memory. It's an organization-wide knowledge-sharing AI text editor with mixture-of-experts (MoE) orchestration. We use OpenAI Swarms for the MoE orchestration. More information [here](https://github.com/Sam-Fatehmanesh/Cerebral_hive_backend)
+
+- This last summer I was named Dr. Jane Chen Summer Undergraduate Research Fellow at Caltech. I worked on improving the SOTA 6 DOF pose estimation methods and optimizing it for compute constrained environments. I was part of the perception and simulation team of the research. A summary of this work can be found in my SURF presentation: [here](https://dhruvmsheth.github.io/surf-research)
 
 # Contact
 
